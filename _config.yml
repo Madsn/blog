@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.madsn.net
+url: http://blog.madsn.net/
 title: Madsn
-subtitle: Random opinions passed off as facts
-author: Mikkel Madsn
+subtitle: if ( code == CodeQualities.UGLY ) saveAsBlogPost();
+author: Mikkel Madsen
 simple_search: https://www.google.com/search
 description:
 
@@ -27,9 +27,9 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/blog
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -63,10 +63,11 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: Madsn
+github_user: 'Madsn'
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
+github_show_repos: false
 
 # Twitter
 twitter_user:
