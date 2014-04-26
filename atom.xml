@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://blog.madsn.net//atom.xml" rel="self"/>
   <link href="http://blog.madsn.net//"/>
-  <updated>2014-04-25T22:42:22+02:00</updated>
+  <updated>2014-04-27T00:57:16+02:00</updated>
   <id>http://blog.madsn.net//</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Started on Web Dev With Haskell]]></title>
+    <link href="http://blog.madsn.net//blog/2014/04/27/getting-started-on-web-dev-with-haskell/"/>
+    <updated>2014-04-27T00:38:23+02:00</updated>
+    <id>http://blog.madsn.net//blog/2014/04/27/getting-started-on-web-dev-with-haskell</id>
+    <content type="html"><![CDATA[<p>Testing</p>
+]]></content>
+  </entry>
   
 </feed>
